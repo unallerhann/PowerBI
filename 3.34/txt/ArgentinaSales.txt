@@ -1,0 +1,4 @@
+CustomerID	CustomerCountry
+54	Argentina
+12	Argentina
+64	Argentina
