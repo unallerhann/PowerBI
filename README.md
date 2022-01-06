@@ -1,4 +1,4 @@
 # PowerBI
 Hello, 
 
-Due to taking of PowerBI course on Udemy,  I'm sharing the same tasks simultaneously.
+I'm learning PowerBI course on Udemy and because of that  I'm sharing the same tasks simultaneously.
